@@ -1,3 +1,5 @@
+**Note**: This repo is heavily based on https://github.com/Unity-Technologies/arfoundation-samples so I recommend using that repo as the main source and use my examples as well which were built while making YouTube videos about AR Foundation.
+
 # UnityARFoundationEssentials
 This repository contains a variety of examples created while making a new video series in YouTube about AR Foundation Essentials with Unity3d. The Break down of videos and results are shown below:
 
@@ -74,3 +76,7 @@ Results from various examples taught in YouTube:
 - Eye Tracking 
 
 <img src="https://github.com/dilmerv/UnityARFoundationEssentials/blob/master/docs/images/eyeTracking.gif" width="300">
+
+- Automatic Placement With Horizontal Planes
+
+<img src="https://github.com/dilmerv/UnityARFoundationEssentials/blob/master/docs/images/autoplacement.gif" width="300">
